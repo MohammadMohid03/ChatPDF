@@ -2,7 +2,7 @@
 
 A Streamlit application that lets you chat with PDF documents using Google's Gemini AI and semantic search capabilities.
 
-![Demo Screenshot](https://via.placeholder.com/800x500.png?text=PDF+Insight+AI+Interface)
+![Demo Screenshot]![image](https://github.com/user-attachments/assets/fd1585f0-7935-4cf1-8ff0-98c9a3745e23)
 
 ## Features ✨
 
@@ -19,6 +19,10 @@ A Streamlit application that lets you chat with PDF documents using Google's Gem
   - Responsive chat interface
   - Real-time processing indicators
   - Session state management
+-**Generate Quiz Option**:
+ - You can generate quiz from the pdf
+ - It has a set difficulty option
+ - It has a number of questions option
 
 ## Installation 🛠️
 
