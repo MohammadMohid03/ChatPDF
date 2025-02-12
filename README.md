@@ -19,10 +19,10 @@ A Streamlit application that lets you chat with PDF documents using Google's Gem
   - Responsive chat interface
   - Real-time processing indicators
   - Session state management
--**Generate Quiz Option**:
- - You can generate quiz from the pdf
- - It has a set difficulty option
- - It has a number of questions option
+- **Generate Quiz Option**:
+  - You can generate quiz from the pdf
+  - It has a set difficulty option
+  - It has a number of questions option
 
 ## Installation 🛠️
 
